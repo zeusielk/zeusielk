@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zeus Coder</h1>
 <h3 align="center">I'm web developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeusielk&label=Profile%20views&color=0e75b6&style=flat" alt="zeusielk" /> </p>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=zeusielk&label=Profile%20views&color=0e75b6&style=flat" alt="zeusielk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeusielk" alt="zeusielk" /></a> </p>
+<p align="left" padding-left="10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeusielk" alt="zeusielk" /></a> </p>
 
 - 🌱 I’m currently following **BSEHons degree programme**
 
